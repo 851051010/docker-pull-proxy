@@ -1,1 +1,1 @@
-nginx:alpine registry.cn-zhangjiakou.aliyuncs.com/mmesweet/nginx:alpine
+nginx:alpine registry.cn-zhangjiakou.aliyuncs.com/taosweet/nginx:alpine
