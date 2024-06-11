@@ -1,1 +1,1 @@
-mysql:5.7  registry.cn-zhangjiakou.aliyuncs.com/mmesweet/mysql:5.7
+mysql registry.cn-zhangjiakou.aliyuncs.com/mmesweet/mysql
