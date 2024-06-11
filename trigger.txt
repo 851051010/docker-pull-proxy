@@ -1,1 +1,1 @@
-nginx:alpine registry.cn-zhangjiakou.aliyuncs.com/taosweet/nginx:alpine
+mysql:5.7 registry.cn-zhangjiakou.aliyuncs.com/taosweet/mysql:5.7
