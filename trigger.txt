@@ -1,1 +1,1 @@
-centos:7.9 registry.cn-zhangjiakou.aliyuncs.com/taosweet/centos:7.9
+centos:centos7 registry.cn-zhangjiakou.aliyuncs.com/taosweet/centos:centos7
