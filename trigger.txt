@@ -1,1 +1,1 @@
-jenkins registry.cn-zhangjiakou.aliyuncs.com/taosweet/jenkins
+alpine registry.cn-zhangjiakou.aliyuncs.com/taosweet/alpine
