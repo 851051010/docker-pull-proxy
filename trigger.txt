@@ -1,1 +1,1 @@
-zabbix registry.cn-zhangjiakou.aliyuncs.com/taosweet/zabbix
+vulhub/zabbix registry.cn-zhangjiakou.aliyuncs.com/taosweet/vulhub/zabbix
