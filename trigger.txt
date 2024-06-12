@@ -1,1 +1,1 @@
-jenkins registry.cn-zhangjiakou.aliyuncs.com/taosweet/jenkins
+jenkins:2.60.3 registry.cn-zhangjiakou.aliyuncs.com/taosweet/jenkins:2.60.3
