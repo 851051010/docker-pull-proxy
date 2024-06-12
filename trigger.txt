@@ -1,1 +1,1 @@
-wordpress registry.cn-zhangjiakou.aliyuncs.com/taosweet/wordpress
+jenkins registry.cn-zhangjiakou.aliyuncs.com/taosweet/jenkins
