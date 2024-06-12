@@ -1,1 +1,1 @@
-node:16.15.0 registry.cn-zhangjiakou.aliyuncs.com/taosweet/node:16.15.0
+python:alpine3.15 registry.cn-zhangjiakou.aliyuncs.com/taosweet/python:alpine3.15
