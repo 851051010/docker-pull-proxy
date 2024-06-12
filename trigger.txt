@@ -1,1 +1,1 @@
-tomcat:9.0.89-jdk8 registry.cn-zhangjiakou.aliyuncs.com/taosweet/tomcat:9.0.89-jdk8
+centos:latest registry.cn-zhangjiakou.aliyuncs.com/taosweet/centos:latest
