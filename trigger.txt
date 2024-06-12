@@ -1,1 +1,1 @@
-nginx:1.24.0 registry.cn-zhangjiakou.aliyuncs.com/taosweet/nginx:1.24.0
+jenkins registry.cn-zhangjiakou.aliyuncs.com/taosweet/jenkins
