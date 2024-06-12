@@ -1,1 +1,1 @@
-jenkins/jenkins registry.cn-zhangjiakou.aliyuncs.com/taosweet/jenkins/jenkins
+jenkins/jenkins:jdk17 registry.cn-zhangjiakou.aliyuncs.com/taosweet/jenkins/jenkins:jdk17
