@@ -1,1 +1,1 @@
-jenkins/jenkins:jdk17 registry.cn-zhangjiakou.aliyuncs.com/taosweet/jenkins/jenkins:jdk17
+kibana registry.cn-zhangjiakou.aliyuncs.com/taosweet/kibana
