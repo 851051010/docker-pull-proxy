@@ -1,1 +1,1 @@
-centos registry.cn-zhangjiakou.aliyuncs.com/taosweet/centos
+zabbix registry.cn-zhangjiakou.aliyuncs.com/taosweet/zabbix
