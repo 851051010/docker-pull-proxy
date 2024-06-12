@@ -1,1 +1,1 @@
-kibana:tag registry.cn-zhangjiakou.aliyuncs.com/taosweet/kibana:tag
+nginx registry.cn-zhangjiakou.aliyuncs.com/taosweet/nginx
