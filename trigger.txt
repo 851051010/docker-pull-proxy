@@ -1,1 +1,1 @@
-redis registry.cn-zhangjiakou.aliyuncs.com/taosweet/redis
+tomcat registry.cn-zhangjiakou.aliyuncs.com/taosweet/tomcat
