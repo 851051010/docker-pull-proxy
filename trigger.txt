@@ -1,1 +1,1 @@
-alpine registry.cn-zhangjiakou.aliyuncs.com/taosweet/alpine
+busybox registry.cn-zhangjiakou.aliyuncs.com/taosweet/busybox
