@@ -1,1 +1,1 @@
-busybox registry.cn-zhangjiakou.aliyuncs.com/taosweet/busybox
+centos7 registry.cn-zhangjiakou.aliyuncs.com/taosweet/centos7
