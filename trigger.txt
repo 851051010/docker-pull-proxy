@@ -1,1 +1,1 @@
-python:alpine3.15 registry.cn-zhangjiakou.aliyuncs.com/taosweet/python:alpine3.15
+tomcat:8-jdk8-corretto registry.cn-zhangjiakou.aliyuncs.com/taosweet/tomcat:8-jdk8-corretto
