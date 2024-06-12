@@ -1,1 +1,1 @@
-centos7 registry.cn-zhangjiakou.aliyuncs.com/taosweet/centos7
+centos7.9.2009 registry.cn-zhangjiakou.aliyuncs.com/taosweet/centos7.9.2009
