@@ -1,1 +1,1 @@
-wordpress:latest registry.cn-zhangjiakou.aliyuncs.com/taosweet/wordpress:latest
+mysql:5.7 registry.cn-zhangjiakou.aliyuncs.com/taosweet/mysql:5.7
