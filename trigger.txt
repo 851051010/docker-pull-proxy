@@ -1,1 +1,1 @@
-centos:latest registry.cn-zhangjiakou.aliyuncs.com/taosweet/centos:latest
+jre:8u211-data registry.cn-zhangjiakou.aliyuncs.com/taosweet/jre:8u211-data
