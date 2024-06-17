@@ -1,1 +1,1 @@
-maven:3.5.3 registry.cn-zhangjiakou.aliyuncs.com/taosweet/maven:3.5.3
+nginx1.23 registry.cn-zhangjiakou.aliyuncs.com/taosweet/nginx1.23
