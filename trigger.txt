@@ -1,1 +1,1 @@
-nginx1.23 registry.cn-zhangjiakou.aliyuncs.com/taosweet/nginx1.23
+nginx:1.23 registry.cn-zhangjiakou.aliyuncs.com/taosweet/nginx:1.23
